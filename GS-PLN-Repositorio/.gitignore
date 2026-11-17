@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+modelos/
+registros/
+.ipynb_checkpoints/
+resultados_colab.zip

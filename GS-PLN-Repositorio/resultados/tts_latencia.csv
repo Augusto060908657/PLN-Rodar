@@ -1,0 +1,11 @@
+id,texto_original,texto_falado,tts_s,duracao_audio_s,fator_tempo_real
+T01,Olá! Eu sou o Zelador. Posso ajudar você a relatar buracos,Olá! Eu sou o Zelador. Posso ajudar você a relatar buracos.,0.512,4.56,0.112
+T02,Entendi. Em qual rua fica o buraco? Se souber o número ou um ponto de referência,Entendi. Em qual rua fica o buraco? Se souber o número ou um ponto de referência.,0.529,5.46,0.097
+T03,Para pedir o conserto de um buraco,Para pedir o conserto de um buraco.,0.189,2.04,0.093
+T04,Resumindo: um buraco grande na rua Augusta,Resumindo: um buraco grande na rua Augusta.,0.259,2.81,0.092
+T05,Pronto. Registrei neste protótipo o pedido de buraco na via. O protocolo é ZU-20261112-0001.,"Pronto. Registrei neste protótipo o pedido de buraco na via. O protocolo é Z U, dois zero dois seis, um um, um dois, número zero zero zero um.",0.917,8.72,0.105
+T06,Árvore perto dos fios de energia é perigoso. Mantenha distância e faça o pedido de poda pelo SP156.,Árvore perto dos fios de energia é perigoso. Mantenha distância e faça o pedido de poda pelo S P um cinco seis.,0.739,7.29,0.101
+T07,Não sei informar o prazo exato do conserto. Você pode acompanhar o andamento com o número do protocolo no SP156.,Não sei informar o prazo exato do conserto. Você pode acompanhar o andamento com o número do protocolo no S P um cinco seis.,0.684,6.97,0.098
+T08,Isso parece uma emergência. Ligue agora para o SAMU,Isso parece uma emergência. Ligue agora para o Samu.,0.331,3.42,0.097
+T09,Desculpe,Desculpe.,0.096,1.02,0.094
+T10,Seu áudio é apagado logo depois de transcrito. Não peço CPF nem telefone. O CEP 01301-000 pode ser usado como referência do local.,"Seu áudio é apagado logo depois de transcrito. Não peço C P F nem telefone. O cép zero um três zero um, zero zero zero pode ser usado como referência do local.",0.992,10.09,0.098

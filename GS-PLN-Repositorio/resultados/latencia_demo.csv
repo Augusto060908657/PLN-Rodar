@@ -1,0 +1,4 @@
+data_hora,conversa,turno,stt_s,rag_s,llm_s,fala_s,tts_s,total_ate_audio_s,seguranca,protocolo,duracao_audio_s
+2026-11-14T13:59:25,ddbc4cfb,1,0.565,0.002,1.003,0.0004,0.721,2.293,ok,,
+2026-11-14T13:59:45,ddbc4cfb,2,0.664,0.002,0.541,0.0002,0.163,1.371,ok,,
+2026-11-14T14:00:06,ddbc4cfb,3,0.614,0.0,1.382,0.0009,3.0,4.998,ok,ZU-20261114-0001,

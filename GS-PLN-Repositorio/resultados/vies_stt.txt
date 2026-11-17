@@ -1,0 +1,38 @@
+== por_modelo ==
+        audios  wer_medio  wer_mediano  tempo_stt_medio_s
+modelo                                                   
+medium      24       0.05        0.056              0.603
+small       24       0.08        0.065              0.370
+
+== por_condicao ==
+condicao  limpo  ruido
+modelo                
+medium    0.047  0.057
+small     0.085  0.063
+
+== por_pessoa ==
+modelo   medium  small
+pessoa                
+Caetano   0.016  0.025
+Karen     0.079  0.075
+Marcos    0.101  0.209
+Octavio   0.029  0.042
+Pedace    0.050  0.050
+Raio      0.023  0.078
+
+== pessoa_condicao ==
+condicao        limpo  ruido
+modelo pessoa               
+medium Caetano  0.000  0.062
+       Karen    0.079  0.077
+       Marcos   0.107  0.083
+       Octavio  0.000  0.118
+       Pedace   0.067  0.000
+       Raio     0.030  0.000
+small  Caetano  0.033  0.000
+       Karen    0.074  0.077
+       Marcos   0.223  0.167
+       Octavio  0.037  0.059
+       Pedace   0.067  0.000
+       Raio     0.078  0.077
+

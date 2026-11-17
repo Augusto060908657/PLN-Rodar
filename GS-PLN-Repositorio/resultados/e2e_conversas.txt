@@ -1,0 +1,154 @@
+[C01 t1 | áudio sintetico] USUÁRIO (roteiro): Oi, quero relatar um buraco enorme na rua Augusta, perto do número quinhentos e vinte.
+   STT: Oi, quero relatar um buraco enorme na rua Augusta, perto do número 520.
+   ZELADOR: Posso registrar o pedido? É um buraco grande na rua Augusta, próximo ao número 520.
+   tempos: stt 0.87s llm 0.90s tts 0.59s total 2.36s
+
+[C01 t2 | áudio sintetico] USUÁRIO (roteiro): Fica no meio da rua e já causou um acidente com uma moto.
+   STT: Fica no meio da rua e já causou um acidente com uma moto.
+   ZELADOR: Posso registrar o pedido? É um buraco grande no meio da rua Augusta, próximo ao número 520, que já causou um acidente com uma moto.
+   tempos: stt 0.50s llm 1.37s tts 0.81s total 2.69s
+
+[C01 t3 | áudio sintetico] USUÁRIO (roteiro): Sim, pode confirmar o pedido.
+   STT: Sim, pode confirmar o pedido.
+   ZELADOR: Pronto. Registrei neste protótipo o pedido de buraco na via em rua Augusta, próximo ao número 520, com gravidade alta. O protocolo é ZU-20261114-0001. Como isto é uma demonstração, faça também o pedido oficial pelo SP156, telefone 156.
+   tempos: stt 0.42s llm 1.58s tts 2.42s total 4.42s
+
+[C01 t4 | áudio sintetico] USUÁRIO (roteiro): Obrigado, pode encerrar.
+   STT: Obrigado, pode encerrar.
+   ZELADOR: De nada! Se precisar de mais ajuda, estou à disposição. Bom dia!
+   tempos: stt 0.57s llm 1.06s tts 0.80s total 2.43s
+
+[C02 t1 | áudio sintetico] USUÁRIO (roteiro): Tem uma árvore com galhos encostando nos fios de energia na rua Teodoro Sampaio.
+   STT: Tem uma árvore com galhos encostando nos fios de energia na rua Teodoro Sampaio.
+   ZELADOR: Posso registrar o pedido? A árvore tem galhos encostando nos fios de energia na rua Teodoro Sampaio.
+   tempos: stt 0.73s llm 1.04s tts 0.58s total 2.35s
+
+[C02 t2 | áudio sintetico] USUÁRIO (roteiro): E onde eu faço o pedido de poda?
+   STT: E onde eu faço o pedido de poda?
+   ZELADOR: Você pode fazer o pedido pelo SP156. Ligue para eles e solicite a poda da árvore na rua Teodoro Sampaio. Lembre-se, não tente podar a árvore sozinho, pois pode ser perigoso.
+   tempos: stt 0.44s llm 1.99s tts 1.10s total 3.53s
+
+[C02 t3 | áudio sintetico] USUÁRIO (roteiro): E quanto tempo isso demora?
+   STT: E quanto tempo isso demora?
+   ZELADOR: Depois de você registrar o pedido pelo SP156, uma equipe técnica irá ao local para fazer a vistoria. O prazo pode variar, mas geralmente é de até 120 dias. Para saber o prazo exato, é melhor confirmar no SP156.
+   tempos: stt 0.40s llm 2.34s tts 1.45s total 4.20s
+
+[C03 t1 | áudio sintetico] USUÁRIO (roteiro): O poste da rua Oscar Freire está com a lâmpada queimada.
+   STT: O poste da rua Oscar Freire está com a lâmpada queimada.
+   ZELADOR: Posso registrar o pedido? A rua é Oscar Freire e qual é o número do poste?
+   tempos: stt 0.72s llm 0.76s tts 0.70s total 2.19s
+
+[C03 t2 | áudio sintetico] USUÁRIO (roteiro): Está queimada há mais de uma semana.
+   STT: Está queimada a mais de uma semana.
+   ZELADOR: Entendi. A lâmpada do poste da rua Oscar Freire está queimada há mais de uma semana. Posso registrar o pedido?
+   tempos: stt 0.51s llm 1.07s tts 0.62s total 2.20s
+
+[C03 t3 | áudio sintetico] USUÁRIO (roteiro): Sim, pode registrar.
+   STT: Sim, pode registrar.
+   ZELADOR: Pronto. Registrei neste protótipo o pedido de iluminação pública em rua Oscar Freire, com gravidade alta. O protocolo é ZU-20261114-0001. Como isto é uma demonstração, faça também o pedido oficial pelo SP156, telefone 156.
+   tempos: stt 0.39s llm 1.43s tts 1.93s total 3.75s
+
+[C04 t1 | áudio sintetico] USUÁRIO (roteiro): Há um bueiro entupido na esquina da rua da Consolação com a rua Maria Antônia.
+   STT: Há um buíro entupido na esquina da rua da Consolação com a Rua Maria Antônia.
+   ZELADOR: Posso registrar o pedido? É importante informar se a água já está transbordando.
+   tempos: stt 0.68s llm 0.99s tts 0.46s total 2.14s
+
+[C04 t2 | áudio sintetico] USUÁRIO (roteiro): A água está transbordando.
+   STT: A água está transbordando.
+   ZELADOR: Posso registrar o pedido? Obrigado pelas informações.
+   tempos: stt 0.42s llm 0.70s tts 0.36s total 1.48s
+
+[C04 t3 | áudio sintetico] USUÁRIO (roteiro): Isso é urgente?
+   STT: Isso é urgente.
+   ZELADOR: Pronto. Registrei neste protótipo o pedido de bueiro em rua da Consolação com a Rua Maria Antônia, com gravidade alta. O protocolo é ZU-20261114-0001. Como isto é uma demonstração, faça também o pedido oficial pelo SP156, telefone 156.
+   tempos: stt 0.38s llm 1.56s tts 2.86s total 4.80s
+
+[C05 t1 | áudio sintetico] USUÁRIO (roteiro): Quero pedir a retirada de entulho na calçada da rua Vergueiro.
+   STT: Quero pedir a retirada de Entulho na calçada da Rua Vergueiro.
+   ZELADOR: Posso registrar o pedido? O entulho está atrapalhando a passagem de pedestres ou veículos?
+   tempos: stt 0.78s llm 1.14s tts 0.53s total 2.45s
+
+[C05 t2 | áudio sintetico] USUÁRIO (roteiro): Fica perto do metrô Paraíso.
+   STT: Fica perto do metrô paraíso.
+   ZELADOR: Entendi. O entulho está perto do metrô Paraíso e atrapalha a passagem. Posso registrar o pedido?
+   tempos: stt 0.45s llm 1.26s tts 0.66s total 2.37s
+
+[C05 t3 | áudio sintetico] USUÁRIO (roteiro): Sim, confirma.
+   STT: Sim, confirmo.
+   ZELADOR: Pronto. Registrei neste protótipo o pedido de entulho em Rua Vergueiro, perto do metrô Paraíso, com gravidade media. O protocolo é ZU-20261114-0001. Como isto é uma demonstração, faça também o pedido oficial pelo SP156, telefone 156.
+   tempos: stt 0.39s llm 1.57s tts 2.08s total 4.04s
+
+[C06 t1 | áudio sintetico] USUÁRIO (roteiro): Quero relatar uma calçada quebrada em frente ao hospital.
+   STT: Era o relatar uma calçada quebrada em frente ao hospital.
+   ZELADOR: Posso registrar o pedido? A calçada quebrada em frente ao hospital pode ser um problema para pessoas com mobilidade reduzida. Por favor, me forneça o endereço exato e descreva o dano.
+   tempos: stt 0.59s llm 1.69s tts 1.51s total 3.78s
+
+[C06 t2 | áudio sintetico] USUÁRIO (roteiro): Antes disso, você sabe se vai chover amanhã?
+   STT: Antes disso, você sabe se vai chover amanhã?
+   ZELADOR: Desculpe, mas o Zelador não pode fornecer previsão do tempo. Você pode verificar a previsão em um aplicativo de tempo ou site de meteorologia. Se precisar relatar uma calçada quebrada, posso ajudar com isso.
+   tempos: stt 0.61s llm 1.94s tts 1.20s total 3.76s
+
+[C06 t3 | áudio sintetico] USUÁRIO (roteiro): Certo, então vamos voltar à calçada.
+   STT: Certo, então vamos voltar à calçada.
+   ZELADOR: Ótimo! Vamos registrar o pedido. A calçada quebrada em frente ao hospital pode ser um problema para a acessibilidade. Poderia me fornecer o endereço exato, por favor?
+   tempos: stt 0.44s llm 1.76s tts 0.99s total 3.20s
+
+[C07 t1 | áudio sintetico] USUÁRIO (roteiro): Como eu acompanho o andamento do meu pedido?
+   STT: como eu acompanho o andamento do meu pedido.
+   ZELADOR: Você pode acompanhar o andamento do seu pedido pelo canal SP156, usando o número do protocolo que receberá. Basta acessar o portal, o aplicativo, ligar para o 156 ou enviar uma mensagem pelo WhatsApp.
+   tempos: stt 0.46s llm 1.76s tts 1.39s total 3.61s
+
+[C07 t2 | áudio sintetico] USUÁRIO (roteiro): E se eu perder o número do protocolo?
+   STT: Isso é ao perder o número do protocolo.
+   ZELADOR: Se você perder o número do protocolo, pode consultar os seus pedidos anteriores no portal ou no aplicativo SP156. Também pode ligar para o 156 para buscar informações sobre o seu pedido.
+   tempos: stt 0.62s llm 1.74s tts 1.60s total 3.97s
+
+[C07 t3 | áudio sintetico] USUÁRIO (roteiro): Obrigado.
+   STT: Obrigado.
+   ZELADOR: De nada! Se tiver mais alguma dúvida, estou aqui para ajudar.
+   tempos: stt 0.46s llm 0.92s tts 0.42s total 1.80s
+
+[C08 t1 | áudio sintetico] USUÁRIO (roteiro): Uma árvore de grande porte caiu em cima de um carro e a rua está interditada.
+   STT: Uma árvore de grande porte caiu em cima de um carro e a rua está interditada.
+   ZELADOR: Atenção: se há risco imediato para pessoas ou carros, afaste-se e ligue para a Defesa Civil, 199, ou para os Bombeiros, 193. Posso registrar o pedido? A árvore caiu em cima de um carro e a rua está interditada.
+   tempos: stt 0.56s llm 1.11s tts 1.46s total 3.13s
+
+[C08 t2 | áudio sintetico] USUÁRIO (roteiro): Tem uma pessoa ferida dentro do carro.
+   STT: Tem uma pessoa ferida dentro do carro.
+   ZELADOR: Isso parece uma emergência de saúde. Eu não posso ajudar com isso. Ligue agora para o SAMU, 192, ou para os Bombeiros, 193. Se puder, peça para alguém ficar com a pessoa até a ajuda chegar.
+   tempos: stt 0.53s llm 0.00s tts 1.27s total 1.80s
+
+[C08 t3 | áudio sintetico] USUÁRIO (roteiro): Certo, obrigado.
+   STT: CERP, obrigado.
+   ZELADOR: De nada. Peço que aguarde a chegada das equipes de emergência. Se precisar de mais alguma coisa, estarei aqui para ajudar.
+   tempos: stt 0.40s llm 1.36s tts 0.98s total 2.74s
+
+[C09 t1 | áudio sintetico] USUÁRIO (roteiro): O semáforo do cruzamento da avenida Brasil com a rua Estados Unidos parou de funcionar.
+   STT: O semáforo do cruzamento da Avenida Brasil com a Rua Estados Unidos parou de funcionar.
+   ZELADOR: Posso registrar o pedido? O semáforo do cruzamento da Avenida Brasil com a Rua Estados Unidos parou de funcionar.
+   tempos: stt 0.77s llm 1.18s tts 0.96s total 2.92s
+
+[C09 t2 | áudio sintetico] USUÁRIO (roteiro): Foi ontem à noite.
+   STT: Foi ontem à noite.
+   ZELADOR: Entendi. O semáforo do cruzamento da Avenida Brasil com a Rua Estados Unidos parou de funcionar ontem à noite. Posso registrar o pedido?
+   tempos: stt 0.39s llm 1.30s tts 0.82s total 2.50s
+
+[C09 t3 | áudio sintetico] USUÁRIO (roteiro): Posso mandar uma foto?
+   STT: Posso mandar uma foto.
+   ZELADOR: Sim, você pode enviar uma foto pelo SP156. Posso registrar o pedido?
+   tempos: stt 0.41s llm 0.80s tts 0.53s total 1.74s
+
+[C10 t1 | áudio sintetico] USUÁRIO (roteiro): Vocês guardam o meu áudio?
+   STT: Vocês guardam o meu áudio.
+   ZELADOR: Não guardamos o áudio nem o texto da nossa conversa. O áudio é processado no próprio computador ou no Colab do grupo e é apagado logo após ser transcrito. Tem mais alguma coisa que você precisa relatar na rua?
+   tempos: stt 0.44s llm 1.69s tts 1.17s total 3.30s
+
+[C10 t2 | áudio sintetico] USUÁRIO (roteiro): Preciso informar meu CPF?
+   STT: Eu preciso informar meu CPF?
+   ZELADOR: Não precisamos do seu CPF nem de outros dados pessoais. Só preciso saber o tipo do problema e o local onde ele está acontecendo. Posso registrar o pedido?
+   tempos: stt 0.43s llm 1.28s tts 1.46s total 3.18s
+
+[C10 t3 | áudio sintetico] USUÁRIO (roteiro): Então quero relatar um vazamento de água na rua Domingos de Morais.
+   STT: Então quero relatar um vazamento de água na rua Domingos de Moraes.
+   ZELADOR: Entendi. Vazamento de água na rua Domingos de Moraes. Posso registrar o pedido?
+   tempos: stt 0.69s llm 1.08s tts 0.81s total 2.59s
