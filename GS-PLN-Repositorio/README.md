@@ -1,7 +1,6 @@
 # Zelador: assistente de voz de zeladoria urbana (CitizenTech, GS 2027 PLN)
 
 **Integrante (trabalho individual):** Octavio Augusto Ramalho Brandão Pires, RM 555696
-**Repositório:** https://github.com/Augusto060908657/GS-PLN-Reposit-rio
 **Vídeo de demonstração (até 5 minutos):** https://youtu.be/bQPZ1kpIc0I
 **Relatório:** [`relatorio_zelador.pdf`](relatorio_zelador.pdf)
 
